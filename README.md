@@ -15,7 +15,7 @@ This is a simple ordering app which allows customers to place orders for items.
 ## Preview
 
 <div align="center">
-    <img src="assets/preview.png" alt="the ordering page" height="500px" style="border-radius:12px">
+    <img src="assets/preview.gif" alt="the demo process from ordering food to completion" height="800px" style="border-radius:12px">
 </div>
 
 ## Features
